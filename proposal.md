@@ -2,7 +2,7 @@
 
 ## Software: scikit-fda
 
-*This is a scikit (Python machine learning library) package for functional data analysis in Python. Functional data analysis allows to understand shapes/curves in graphs which is beneficial part of visualizing numerical computation. *
+*This is a scikit (Python machine learning library) package for functional data analysis in Python. Functional data analysis allows to understand shapes/curves in graphs which is beneficial part of visualizing numerical computation.*
 
 ### Stats
 
@@ -21,7 +21,7 @@
 | How does the project accept contributions? | Creating an issue, reporting an improvement or a bug, repository fork and creating a pull request to the development branch |
 | Does the project have an automated test suite? | Yes |
 | Does the project use continuous integration? | Yes |
-| Are any legal/licensing steps required to contribute? | No (https://github.com/GAA-UAM/scikit-fda/blob/develop/CITATION.cff) |
+| Are any legal/licensing steps required to contribute? | No (look at notes for citation info) |
 
 ### Install and run
 
@@ -42,7 +42,7 @@ the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
 
-Required citation method as per license (https://github.com/GAA-UAM/scikit-fda/blob/develop/LICENSE.txt).
+Required citation (https://github.com/GAA-UAM/scikit-fda/blob/develop/CITATION.cff) method as per license (https://github.com/GAA-UAM/scikit-fda/blob/develop/LICENSE.txt).
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
