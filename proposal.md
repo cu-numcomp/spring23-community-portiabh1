@@ -1,39 +1,37 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: scikit-fda
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*This is a scikit (Python machine learning library) package for functional data analysis in Python. Functional data analysis allows to understand shapes/curves in graphs which is beneficial part of visualizing numerical computation. *
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/GAA-UAM/scikit-fda |
+| Main/documentation website | https://fda.readthedocs.io/en/stable/ |
+| Year project was started | 2017  |
+| Number of contributors in the past year | 18 |
+| Number of contributors in the lifetime of the project | 23 |
+| Number of distinct affiliations | 1 |
+| Where do development discussions take place? | GitHub |
+| Typical number of emails/comments per week? | 0-2 |
+| Typical number of commits per week? | 5-10 |
+| Typical commit size | Multiple file changes |
+| How does the project accept contributions? | Creating an issue, reporting an improvement or a bug, repository fork and creating a pull request to the development branch |
+| Does the project have an automated test suite? | Yes |
+| Does the project use continuous integration? | Yes |
+| Are any legal/licensing steps required to contribute? | No (https://github.com/GAA-UAM/scikit-fda/blob/develop/CITATION.cff) |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [X] I have installed the software
+- [X] I have run at least one example
+- [X] I have run the test suite
+- [X] The test suite passes
 
 ### Notes/concerns/risks
 
@@ -43,6 +41,8 @@ otherwise have concerns about the appropriateness of the software.  If
 the project requires a contributor license agreement or other
 procedural steps, please explain here.  "None at this time" is
 acceptable for this question.
+
+Required citation method as per license (https://github.com/GAA-UAM/scikit-fda/blob/develop/LICENSE.txt).
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
