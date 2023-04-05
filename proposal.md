@@ -2,7 +2,7 @@
 
 ## Software: scikit-fda
 
-*This is a scikit (Python machine learning library) package for functional data analysis in Python. Functional data analysis allows to understand shapes/curves in graphs which is beneficial part of visualizing numerical computation.*
+*This is a scikit (Python machine learning library) package for functional data analysis in Python. Functional data analysis views observations as functions of variables; this allows for continuous, smooth graphs which are beneficial for visualizing numerical computation.*
 
 ### Stats
 
